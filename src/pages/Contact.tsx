@@ -32,7 +32,7 @@ function Contact() {
       emailAddress: "risyacaroline@gmail.com",
       phoneNumber: "082255615257",
       linkedinProfile: "carolinerisyab",
-      locationDetails: "Yogyakarta, Indonesia",
+      locationDetails: "BalikPapan, Indonesia",
       form: {
         name: "Nama",
         email: "Surel",
